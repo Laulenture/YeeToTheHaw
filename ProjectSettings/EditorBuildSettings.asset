@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoCameraCalibrationExample.unity
     guid: b811885e9cec5f5438428d512d9c1316
   - enabled: 1
+    path: Assets/OpenCVForUnity/Examples/MainModules/video/CamShiftExample/CamShiftExample.unity
+    guid: 8761a325605944649b54eca5ab612765
+  - enabled: 1
     path: Assets/OpenCVForUnity/Examples/ContribModules/aruco/ArUcoExample/ArUcoCreateMarkerExample.unity
     guid: f7d709cffc100ff4296ba0c543fe0778
   - enabled: 1
