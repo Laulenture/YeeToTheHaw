@@ -48,4 +48,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 #Plugins
-Assets
+Assets/OpenCVForUnity
+Assets/StreamingAssets
+OpenCVForUnity2.3.5TrialVersion.unitypackage
