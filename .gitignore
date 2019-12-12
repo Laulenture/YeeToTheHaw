@@ -47,9 +47,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Assets
+Assets/StreamingAssets/*
+
 #Plugins
 Assets/OpenCVForUnity/*
-!Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionExample.cs
-!Assets/OpenCVForUnity/Examples/Advanced/HandPoseEstimationExample/HandPoseEstimationExample.cs
-Assets/StreamingAssets/*
 OpenCVForUnity2.3.5TrialVersion.unitypackage
